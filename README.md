@@ -1,4 +1,4 @@
-#LIve Demo: https://clone-c9d18.web.app/
+# Live Demo: https://clone-c9d18.web.app/
 
 # Getting Started with Create React App
 
